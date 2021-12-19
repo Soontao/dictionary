@@ -1,7 +1,8 @@
 # Dictionary
 
-Dictionary provided by `Theo`, used for automatically NLP media research
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/Soontao/dictionary)
 
+Dictionary provided by `Theo`, used for automatically NLP media research
 
 ## Link
 
