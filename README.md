@@ -1,2 +1,3 @@
-# dictionary
-Dictionary provided by Theo
+# Dictionary
+
+Dictionary provided by Theo, used for automatically NLP media research
