@@ -36,7 +36,7 @@ https://cdn.jsdelivr.net/gh/Soontao/dictionary/dict.text
 | nr   | 人名       | 建设部/nt 部长/n 侯/nr 捷/nr                                         |
 | ns   | 地名       | 北京/ns 经济/n 运行/vn 态势/n 喜人/a                                 |
 | nt   | 机构团体   | [冶金/n 工业部/n 洛阳/ns 耐火材料/l 研究院/n]nt                      |
-| nx   | 字母专名   | ＡＴＭ/nx 交换机/n                                                   |
+| nx   | 字母专名   | ATM/nx 交换机/n                                                   |
 | nz   | 其他专名   | 德士古/nz 公司/n                                                     |
 | o    | 拟声词     | 汩汩/o 地/u 流/v 出来/v                                              |
 | p    | 介词       | 往/p 基层/n 跑/v 。/w                                                |
@@ -56,7 +56,7 @@ https://cdn.jsdelivr.net/gh/Soontao/dictionary/dict.text
 | vd   | 副动词     | 强调/vd 指出/v                                                       |
 | vg   | 动语素     | 做好/v 尊/vg 干/j 爱/v 兵/n 工作/vn                                  |
 | vn   | 名动词     | 股份制/n 这种/r 企业/n 组织/vn 形式/n ，/w                           |
-| w    | 标点符号   | 生产/v 的/u 5G/nx 、/w ８Ｇ/nx 型/k 燃气/n 热水器/n                |
+| w    | 标点符号   | 生产/v 的/u 5G/nx 、/w 8G/nx 型/k 燃气/n 热水器/n                |
 | x    | 非语素字   |                                                                      |
 | y    | 语气词     | 已经/d 30/m 多/m 年/q 了/y 。/w                                    |
 | z    | 状态词     | 势头/n 依然/z 强劲/a ；/w                                            |
